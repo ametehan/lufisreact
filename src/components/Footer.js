@@ -38,7 +38,7 @@ const Footer = () => {
                   </ul>
                 </div>
                 <div class="col-md-6 item text">
-                  <h3>Company Name</h3>
+                  <h3>Lufis Productions</h3>
                   <p>
                     Wir sind ein junges und kleines Unternehmen, aber unsere
                     Ziele sind derart groß!
@@ -59,7 +59,7 @@ const Footer = () => {
                   </a>
                 </div>
               </div>
-              <p class="copyright">Company Name © 2018</p>
+              <p class="copyright">Lufis Productions ©2022</p>
             </div>
           </footer>
         </div>

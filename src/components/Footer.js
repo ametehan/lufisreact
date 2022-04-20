@@ -40,10 +40,8 @@ const Footer = () => {
                 <div class="col-md-6 item text">
                   <h3>Company Name</h3>
                   <p>
-                    Praesent sed lobortis mi. Suspendisse vel placerat ligula.
-                    Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam
-                    quis tristique lectus. Aliquam in arcu eget velit pulvinar
-                    dictum vel in justo.
+                    Wir sind ein junges und kleines Unternehmen, aber unsere
+                    Ziele sind derart groß!
                   </p>
                 </div>
                 <div class="col item social">
@@ -65,8 +63,6 @@ const Footer = () => {
             </div>
           </footer>
         </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
       </body>
     </div>
   );

@@ -38,7 +38,7 @@ const Footer = () => {
                   </ul>
                 </div>
                 <div class="col-md-6 item text">
-                  <h3>Company Name</h3>
+                  <h3>Lufis Productions</h3>
                   <p>
                     Wir sind ein junges und kleines Unternehmen, aber unsere
                     Ziele sind derart groß!

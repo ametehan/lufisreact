@@ -1,14 +1,11 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
+import React from "react";
+import { FooterContainer } from "./containers/footer";
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Footer />
-    </div>
+    <>
+      <FooterContainer />
+    </>
   );
 }
 

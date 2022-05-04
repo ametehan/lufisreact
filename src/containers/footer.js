@@ -37,7 +37,7 @@ export function FooterContainer() {
               Twitter
             </Footer.Link>
             <Footer.Link href="#">
-              <Icon className="fa-brands fa-facebook" />
+              <Icon className="fab fa-facebook-f" />
               Facebook
             </Footer.Link>
           </Footer.Column>

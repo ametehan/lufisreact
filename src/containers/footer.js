@@ -20,17 +20,17 @@ export function FooterContainer() {
             <Footer.Link href="#">Design</Footer.Link>
           </Footer.Column>
           <Footer.Column>
-            <Footer.Title>Contact Us</Footer.Title>
-            <Footer.Link href="#">United States</Footer.Link>
-            <Footer.Link href="#">United Kingdom</Footer.Link>
-            <Footer.Link href="#">Australia</Footer.Link>
-            <Footer.Link href="#">Support</Footer.Link>
-          </Footer.Column>
-          <Footer.Column>
             <Footer.Title>Developer</Footer.Title>
             <Footer.Link href="#">Numan Erter</Footer.Link>
             <Footer.Link href="#">Metehan Altundal</Footer.Link>
             <Footer.Link href="#">Kristijan Mladenovic</Footer.Link>
+          </Footer.Column>
+          <Footer.Column>
+            <Footer.Title>Contact Us</Footer.Title>
+            <Footer.Link href="#">Austria</Footer.Link>
+            <Footer.Link href="#">Turkey</Footer.Link>
+            <Footer.Link href="#">Serbia</Footer.Link>
+            <Footer.Link href="#">Support</Footer.Link>
           </Footer.Column>
         </Footer.Row>
       </Footer.Wrapper>

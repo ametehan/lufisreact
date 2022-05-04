@@ -34,7 +34,7 @@ export const Row = styled.div`
   }
 `;
 
-export const Link = styled.div`
+export const Link = styled.a`
   color: #fff;
   margin-bottom: 20px;
   font-size: 18px;
@@ -46,7 +46,7 @@ export const Link = styled.div`
   }
 `;
 
-export const Title = styled.div`
+export const Title = styled.p`
   font-size: 24px;
   color: #fff;
   margin-bottom: 40px;

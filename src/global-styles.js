@@ -8,5 +8,7 @@ export const GlobalStyles = createGlobalStyle`
         position: relative;
         top: 300px;
         background: #fff;
+        font-family: 'Work Sans', sans-serif;
     }
+;
 `;

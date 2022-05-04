@@ -1,5 +1,6 @@
 import React from "react";
 import Footer from "../components/footer";
+import Icon from "../components/footer/icons";
 
 export function FooterContainer() {
   return (
@@ -26,11 +27,19 @@ export function FooterContainer() {
             <Footer.Link href="#">Kristijan Mladenovic</Footer.Link>
           </Footer.Column>
           <Footer.Column>
-            <Footer.Title>Contact Us</Footer.Title>
-            <Footer.Link href="#">Austria</Footer.Link>
-            <Footer.Link href="#">Turkey</Footer.Link>
-            <Footer.Link href="#">Serbia</Footer.Link>
-            <Footer.Link href="#">Support</Footer.Link>
+            <Footer.Title>Social</Footer.Title>
+            <Footer.Link href="#">
+              <Icon className="fa-brands fa-instagram" />
+              Instagram
+            </Footer.Link>
+            <Footer.Link href="#">
+              <Icon className="fa-brands fa-twitter" />
+              Twitter
+            </Footer.Link>
+            <Footer.Link href="#">
+              <Icon className="fab fa-facebook-f" />
+              Facebook
+            </Footer.Link>
           </Footer.Column>
         </Footer.Row>
       </Footer.Wrapper>

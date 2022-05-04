@@ -1,12 +1,12 @@
 import React from "react";
 import { FooterContainer } from "./containers/footer";
-import Index from "./components/header/Index";
+import Header from "./components/header/Header";
 
 function App() {
   return (
     <>
+      <Header />
       <FooterContainer />
-      <Index />
     </>
   );
 }

@@ -3,7 +3,7 @@ import "./CardStyle.css";
 
 function Card() {
   return (
-    <div className="wrapper">
+    <div className="wrapper2">
       <CardApp />
     </div>
   );

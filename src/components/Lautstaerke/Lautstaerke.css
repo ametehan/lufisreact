@@ -14,13 +14,13 @@ body {
   margin: 2rem;
 }
 
-.wrapper2 {
+.wrapper1 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
   gap: 2rem;
-  justify-content: center;
+  justify-content: left;
   padding-bottom: 15px;
-  margin-left: 200px;
+  margin-left: 300px;
   padding-top: 0px;
 }
 

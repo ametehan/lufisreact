@@ -4,7 +4,7 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
+  box-sizing: border-box; 
   margin: 0;
   padding: 0;
 }
@@ -14,14 +14,12 @@ body {
   margin: 2rem;
 }
 
-.wrapper2 {
+.wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
   gap: 2rem;
   justify-content: center;
   padding-bottom: 15px;
-  margin-left: 200px;
-  padding-top: 0px;
 }
 
 .card {

@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
       <Nav>
         <NavLink to="/">
-          <img src={image}></img>
+          <img src={image} width="60px"></img>
         </NavLink>
         <Bars />
         <NavMenu>

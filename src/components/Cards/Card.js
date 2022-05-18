@@ -21,7 +21,7 @@ function SauerstoffApp() {
         <h2 className="card_title">Sauerstoff</h2>
         <p className="card__description">Zeigt den Sauerstoffgehalt an!</p>
       </div>
-      <button className="card__btn">Zeig</button>
+      <button className="card__btn">Anzeigen</button>
     </div>
   );
 }
@@ -34,7 +34,7 @@ function LautstaerkeApp() {
         <h2 className="card_title">Lautstärke</h2>
         <p className="card__description">Zeigt die Lautstärke an!</p>
       </div>
-      <button className="card__btn">Zeig</button>
+      <button className="card__btn">Anzeigen</button>
     </div>
   );
 }
@@ -47,7 +47,7 @@ function TemperaturApp() {
         <h2 className="card_title">Temperatur</h2>
         <p className="card__description">Zeigt die Temperatur an!</p>
       </div>
-      <button className="card__btn">Zeig</button>
+      <button className="card__btn">Anzeigen</button>
     </div>
   );
 }
@@ -60,7 +60,7 @@ function QualitaetApp() {
         <h2 className="card_title">Luftqualität</h2>
         <p className="card__description">Zeigt die Luftqualität an!</p>
       </div>
-      <button className="card__btn">Zeig</button>
+      <button className="card__btn">Anzeigen</button>
     </div>
   );
 }
@@ -73,7 +73,7 @@ function FeuchtigkeitApp() {
         <h2 className="card_title">Luftfeuchtigkeit</h2>
         <p className="card__description">Zeigt die Luftfeuchtigkeit an!</p>
       </div>
-      <button className="card__btn">Zeig</button>
+      <button className="card__btn">Anzeigen</button>
     </div>
   );
 }

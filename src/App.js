@@ -1,15 +1,16 @@
 import React from "react";
 import { FooterContainer } from "./containers/footer";
-import Header from "./components/header/Header";
 import Card from "./components/Cards/Card";
+import Navbar from "./components/Navbar";
+import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
   return (
-    <>
-      <Header />
+    <Router>
+      <Navbar />
       <Card />
       <FooterContainer />
-    </>
+    </Router>
   );
 }
 

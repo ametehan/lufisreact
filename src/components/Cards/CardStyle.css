@@ -15,12 +15,12 @@ body {
 }
 
 .wrapper {
-  display: grid;
+  /*display: grid;*/
   grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
   gap: 3rem;
-  justify-content: left;
+ /* justify-content: left; */
   padding-bottom: 15px;
-  margin-left: 20px;
+  /*margin-left: 20px;*/
 }
 
 .card {

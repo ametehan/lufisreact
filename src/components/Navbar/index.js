@@ -1,12 +1,13 @@
 import React from "react";
 import { Nav, NavLink, Bars, NavMenu } from "./NavbarElements";
+import image from "./favicon.png";
 
 const Navbar = () => {
   return (
     <>
       <Nav>
         <NavLink to="/">
-          <img src=".images/favicon.png"></img>
+          <img src={image}></img>
         </NavLink>
         <Bars />
         <NavMenu>

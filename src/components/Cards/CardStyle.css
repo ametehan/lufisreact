@@ -18,10 +18,11 @@ body {
   /*display: grid;*/
   grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
   gap: 3rem;
- /* justify-content: left; */
+  justify-content: left;
   padding-bottom: 30px;
   padding-top: 30px;
-  /*margin-left: 20px;*/
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .card {
@@ -41,6 +42,7 @@ body {
 }
 .card__title {
   padding: 1rem;
+  justify-content: center;
 }
 .card__description {
   padding: 0 1rem;

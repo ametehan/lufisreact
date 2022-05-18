@@ -19,7 +19,8 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
   gap: 3rem;
  /* justify-content: left; */
-  padding-bottom: 15px;
+  padding-bottom: 30px;
+  padding-top: 30px;
   /*margin-left: 20px;*/
 }
 

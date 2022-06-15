@@ -8,7 +8,7 @@ function Sensor(props) {
         <h2 className="card_title">{props.name}</h2>
         <p className="card__description">{props.desc}</p>
       </div>
-      <button className="card__btn">Zeig</button>
+      <button className="card__btn">Show more</button>
     </div>
   );
 }
